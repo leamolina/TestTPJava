@@ -34,5 +34,6 @@ public class Main {
         MapGI m = new MapGI();
 
         //Ceci est une modification pour GitHub
+        //Ceci est un autre commentaire inutile
     }
 }
