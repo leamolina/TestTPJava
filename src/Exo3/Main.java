@@ -33,6 +33,6 @@ public class Main {
 
         MapGI m = new MapGI();
 
-
+        //Ceci est une modification pour GitHub
     }
 }
